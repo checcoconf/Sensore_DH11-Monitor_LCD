@@ -1,4 +1,29 @@
 # Sensore DHT11 & Monitor LCD
-Sorgente per acquisire in input la temperatura e l'umidità dal sensore DHT11 e trasmetterlo su un monitor LCD.
 
-<img src="https://www.italiantechproject.it/media/circuit/dht11-senza-modulo.png)https://www.italiantechproject.it/media/circuit/dht11-senza-modulo.png">
+Questo progetto offre una soluzione per acquisire in input la temperatura e l'umidità utilizzando il sensore DHT11 e visualizzarli su un monitor LCD.
+
+## Descrizione
+
+Il sensore DHT11 viene utilizzato per rilevare la temperatura e l'umidità dell'ambiente circostante.
+I dati acquisiti vengono quindi visualizzati su un monitor LCD per una facile visualizzazione e monitoraggio in tempo reale.
+
+## Istruzioni per l'installazione
+
+1. Collegare correttamente il sensore DHT11 al microcontrollore secondo lo schema fornito.
+2. Assicurarsi di avere tutte le dipendenze necessarie installate.
+3. Caricare il codice sorgente fornito nel microcontrollore.
+4. Avviare il programma per iniziare ad acquisire e visualizzare i dati del sensore.
+
+## Dipendenze
+
+- [Libreria](https://www.arduino.cc/reference/en/libraries/dht-sensor-library/) del sensore DHT11
+- Libreria del monitor LCD 
+
+## Schema del circuito
+
+![Schema del circuito](https://www.italiantechproject.it/media/circuit/dht11.png)
+
+## Licenza
+
+Questo progetto è distribuito sotto la [Licenza MIT](LICENSE).
+
