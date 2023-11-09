@@ -17,7 +17,7 @@ I dati acquisiti vengono quindi visualizzati su un monitor LCD per una facile vi
 ## Dipendenze
 
 - [Libreria](https://www.arduino.cc/reference/en/libraries/dht-sensor-library/) del sensore DHT11
-- Libreria del monitor LCD 
+- [Libreria](https://www.arduino.cc/reference/en/libraries/liquidcrystal/) del monitor LCD 
 
 ## Schema del circuito
 
@@ -27,3 +27,4 @@ I dati acquisiti vengono quindi visualizzati su un monitor LCD per una facile vi
 
 Questo progetto è distribuito sotto la [Licenza MIT](LICENSE).
 
+Per ulteriori informazioni o per contattare il proprietario del repository, visita il [profilo GitHub del proprietario](https://github.com/checcoconf).
