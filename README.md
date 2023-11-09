@@ -21,7 +21,7 @@ I dati acquisiti vengono quindi visualizzati su un monitor LCD per una facile vi
 
 ## Schema del circuito
 
-![Schema del circuito](https://www.italiantechproject.it/media/circuit/dht11.png)
+![Schema del circuito](https://www.progettiarduino.com/uploads/8/1/0/8/81088074/published/arduino-dht-11-display-temperatura-e-umidit_1.png?1495478536)
 
 ## Licenza
 
